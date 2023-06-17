@@ -100,7 +100,9 @@ a{
     border-bottom: 1px solid #000;
     padding-bottom:5px ;
 }
-
+.text-center a{
+    color: #000;
+}
 @media (max-width:600px){
     .container{
         flex-direction: column;
